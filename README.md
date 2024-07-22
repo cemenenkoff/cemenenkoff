@@ -6,7 +6,7 @@
 
 🪐 Physics
 
-ထ Math
+ထ  Math
 
 🤖 Machine Learning
 
