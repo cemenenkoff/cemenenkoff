@@ -1,5 +1,3 @@
-## I'm Nick. Welcome to my portfolio.
-### Here you'll find
 🐍 Python
 
 👨‍💻 Software Engineering
@@ -12,7 +10,7 @@
 
 🎮 Gaming
 
-Feel free to fork or clone any repo that speaks to you, submit a PR, or send me an email.
+Feel free to submit a PR or send me an email 📧.
 <!--
 **cemenenkoff/cemenenkoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
