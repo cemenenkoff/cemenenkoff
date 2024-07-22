@@ -20,5 +20,5 @@ Here you'll find
   
   &nbsp;&nbsp;&nbsp;&nbsp;💫  Physics Simulations
 
-If you have any questions, feel free to send me an email. •‿•
+If you have any questions, feel free to send me an email. 😊
 
