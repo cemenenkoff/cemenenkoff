@@ -27,3 +27,5 @@ Welcome. Here you'll find
   &nbsp;&nbsp;&nbsp;&nbsp;🤓  Math Jokes
 
 If you have any questions, feel free to send me an email. 😊
+
+> "What I cannot create, I do not understand." - Richard Feynman
