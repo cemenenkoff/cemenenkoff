@@ -1,17 +1,17 @@
 
 Here you'll find
   
-  🐍 Python
+  &nbsp;&nbsp;&nbsp;&nbsp;🐍 Python
   
-  👨‍💻 Software Engineering
+  &nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 Software Engineering
   
-  🪐 Physics
+  &nbsp;&nbsp;&nbsp;&nbsp;🪐 Physics
   
-  🔢 Math
+  &nbsp;&nbsp;&nbsp;&nbsp;🔢 Math
   
-  🤖 Machine Learning
+  &nbsp;&nbsp;&nbsp;&nbsp;🤖 Machine Learning
   
-  📊 Data Science
+  &nbsp;&nbsp;&nbsp;&nbsp;📊 Data Science
 <!--
 **cemenenkoff/cemenenkoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
