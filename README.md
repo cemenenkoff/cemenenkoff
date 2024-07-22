@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   
   &nbsp;&nbsp;&nbsp;&nbsp;</> Python, SQL, R
   
-  &nbsp;&nbsp;&nbsp;&nbsp;🐱‍💻  Machine Learning, Data Science, Software Engineering
+  &nbsp;&nbsp;&nbsp;&nbsp;👨‍💻  Machine Learning, Data Science, Software Engineering
   
   &nbsp;&nbsp;&nbsp;&nbsp;💫  Physics Simulations
 
