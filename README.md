@@ -1,11 +1,3 @@
-
-Here you'll find
-  
-  &nbsp;&nbsp;&nbsp;&nbsp;</> Python, SQL, R
-  
-  &nbsp;&nbsp;&nbsp;&nbsp;👨🏻‍💻  Machine Learning, Data Science, Software Engineering
-  
-  &nbsp;&nbsp;&nbsp;&nbsp;🕹️  Old School Runescape, Snake
 <!--
 **cemenenkoff/cemenenkoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Here you'll find
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;</> Python, SQL, R
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;👨🏻‍💻  Machine Learning, Data Science, Software Engineering
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;💫  Physics Simulations
+
+If you have a question, feel free to send me an email. 📧
+
