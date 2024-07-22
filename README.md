@@ -16,7 +16,9 @@ Welcome. Here you'll find
   
   &nbsp;&nbsp;&nbsp;&nbsp;</> Python
   
-  &nbsp;&nbsp;&nbsp;&nbsp;👨‍💻  Machine Learning & Data Science
+  &nbsp;&nbsp;&nbsp;&nbsp;👨‍💻  Machine Learning
+
+  &nbsp;&nbsp;&nbsp;&nbsp;🧪 Data Science
   
   &nbsp;&nbsp;&nbsp;&nbsp;💫  Physics Simulations
 
