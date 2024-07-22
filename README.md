@@ -3,9 +3,9 @@ Here you'll find
   
   &nbsp;&nbsp;&nbsp;&nbsp;</> Python, SQL, R
   
-  &nbsp;&nbsp;&nbsp;&nbsp;👨🏻‍💻 Machine Learning, Data Science, Software Engineering
+  &nbsp;&nbsp;&nbsp;&nbsp;👨🏻‍💻  Machine Learning, Data Science, Software Engineering
   
-  &nbsp;&nbsp;&nbsp;&nbsp;🎮🕹️👾 Old School Runescape, Snake
+  &nbsp;&nbsp;&nbsp;&nbsp;🕹️  Old School Runescape, Snake
 <!--
 **cemenenkoff/cemenenkoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
