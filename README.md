@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### I'm Nick, a machine learning and data science full stack developer.
+Welcome. Here you'll find
   
-  &nbsp;&nbsp;&nbsp;&nbsp;</> Python, SQL, R
+  &nbsp;&nbsp;&nbsp;&nbsp;</> Python
   
   &nbsp;&nbsp;&nbsp;&nbsp;👨‍💻  Machine Learning, Data Science, Software Engineering
   
