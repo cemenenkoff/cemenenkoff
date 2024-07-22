@@ -12,6 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## My Life Philosophy
+> "What I cannot create, I do not understand." - Richard Feynman
+
 <img src="github-banner-transparent.png" alt="banner" width="500" />
 
 Welcome. Here you'll find
@@ -27,5 +31,3 @@ Welcome. Here you'll find
   &nbsp;&nbsp;&nbsp;&nbsp;🤓  Math Jokes
 
 If you have any questions, feel free to send me an email. 😊
-
-> "What I cannot create, I do not understand." - Richard Feynman
