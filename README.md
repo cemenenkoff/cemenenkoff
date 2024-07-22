@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## My Life Philosophy
+**My Life Philosophy**
 > "What I cannot create, I do not understand." - Richard Feynman
 
 <img src="github-banner-transparent.png" alt="banner" width="500" />
