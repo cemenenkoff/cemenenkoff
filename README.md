@@ -12,15 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![banner](github-banner-transparent.png)
+
 Welcome. Here you'll find
-  
+
   &nbsp;&nbsp;&nbsp;&nbsp;</> Python
-  
+
   &nbsp;&nbsp;&nbsp;&nbsp;👨‍💻  Machine Learning
 
   &nbsp;&nbsp;&nbsp;&nbsp;🧪 Data Science
-  
+
   &nbsp;&nbsp;&nbsp;&nbsp;💫  Physics Simulations
 
 If you have any questions, feel free to send me an email. 😊
-
