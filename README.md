@@ -8,9 +8,7 @@
 
 🤖 Machine Learning
 
-🎮 Gaming
-
-Feel free to submit a PR or send me an email 📧.
+📊 Data Science
 <!--
 **cemenenkoff/cemenenkoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
