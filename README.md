@@ -12,7 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Here you'll find
+## Machine Learning and Data Science Full Stack Developer
+
+  &nbsp;&nbsp;&nbsp;&nbsp;🏞️ Pacific Northwest
   
   &nbsp;&nbsp;&nbsp;&nbsp;</> Python, SQL, R
   
