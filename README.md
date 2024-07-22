@@ -16,7 +16,7 @@ Welcome. Here you'll find
   
   &nbsp;&nbsp;&nbsp;&nbsp;</> Python
   
-  &nbsp;&nbsp;&nbsp;&nbsp;👨‍💻  Machine Learning, Data Science, Software Engineering
+  &nbsp;&nbsp;&nbsp;&nbsp;👨‍💻  ML, DS, and SWE
   
   &nbsp;&nbsp;&nbsp;&nbsp;💫  Physics Simulations
 
