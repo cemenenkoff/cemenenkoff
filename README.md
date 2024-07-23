@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div style="text-align: center;">
-  <img src="github-banner-grey-cropped-transparent.png" alt="banner" width="500" />
+  <img src="github-banner-grey-transparent.png" alt="banner" width="500" />
 </div>
 
 **My Life Philosophy**
