@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 Welcome. Here you'll find
 
-  &nbsp;&nbsp;&nbsp;&nbsp;</> Python
+  &nbsp;&nbsp;&nbsp;&nbsp;🐍 Python
 
   &nbsp;&nbsp;&nbsp;&nbsp;👨‍💻  Machine Learning
 
