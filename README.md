@@ -32,4 +32,4 @@ Welcome. Here you'll find
 
   &nbsp;&nbsp;&nbsp;&nbsp;🤓  Math Jokes
 
-If you have any questions, feel free to send a message. 📧
+If you have any questions, feel free to send a message.
