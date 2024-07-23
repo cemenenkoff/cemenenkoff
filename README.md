@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="github-banner-transparent.png" alt="banner" width="500" />
+<img src="github-banner-grey-cropped-transparent.png" alt="banner" width="500" />
 
 **My Life Philosophy**
 > *"What I cannot create, I do not understand." - Richard Feynman*
