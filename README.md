@@ -16,9 +16,6 @@ Here are some ideas to get you started:
   <img src="github-banner-grey-transparent.png" alt="banner" width="500" />
 </div>
 
-**My Life Philosophy**
-> *"What I cannot create, I do not understand." - Richard Feynman*
-
 
 Welcome. Here you'll find
 
@@ -29,7 +26,5 @@ Welcome. Here you'll find
   &nbsp;&nbsp;&nbsp;&nbsp;🧪 Data Science
 
   &nbsp;&nbsp;&nbsp;&nbsp;💫  Physics Simulations
-
-  &nbsp;&nbsp;&nbsp;&nbsp;🤓  Math Jokes
 
 If you have any questions, feel free to send a message.
